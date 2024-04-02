@@ -1,3 +1,13 @@
-body{
-    text-align: center;
+
+.text-color-tomashi{
+    color: red;
+}
+
+.text-transform-uppercase{
+    text-transform: uppercase;
+}
+
+li.border-black{
+    border: 1px dashed #000000;
+
 }
